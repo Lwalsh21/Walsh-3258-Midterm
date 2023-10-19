@@ -176,3 +176,11 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 302384.675279 seconds.
+  path: Assets/Brown.mat
+  artifactKey: Guid(83e4ea4522510d74b8c9562ea41ee0ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brown.mat using Guid(83e4ea4522510d74b8c9562ea41ee0ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e20a016d59097ca751cfbc20aa6c9bf') in 0.253329 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1

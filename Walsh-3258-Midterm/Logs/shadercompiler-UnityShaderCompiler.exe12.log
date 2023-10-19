@@ -36,3 +36,4 @@ Cmd: disassembleShader
 Cmd: disassembleShader
  name=Standard platform=d3d11 type=17 mask=6 insize=2818 outsize=4642 ok=1
 
+Cmd: shutdown
