@@ -496,3 +496,40 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1318.374928 seconds.
+  path: Assets/DetectorChase.asset
+  artifactKey: Guid(3d37a51463d86a041bb5f318c875245c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DetectorChase.asset using Guid(3d37a51463d86a041bb5f318c875245c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2403f18a08d63e3b4c55bffd433e1959') in 0.961846 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/NPCRandom.asset
+  artifactKey: Guid(c912117208910db499ba60810f493e04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCRandom.asset using Guid(c912117208910db499ba60810f493e04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cf137997abfb95e76c56cf5455dd437') in 0.173687 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 5220.547274 seconds.
+  path: Assets/BulletBox.asset
+  artifactKey: Guid(f8e759ef53dac0b4098ce258cbccf67d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BulletBox.asset using Guid(f8e759ef53dac0b4098ce258cbccf67d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e12abf4970480587dd6843cae2276bf') in 0.101372 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/BulletHolder.asset
+  artifactKey: Guid(f92041b6ec142bc46aae0707e29fe90b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BulletHolder.asset using Guid(f92041b6ec142bc46aae0707e29fe90b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f57292d1c8de98049ee80213901112f') in 0.021299 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
