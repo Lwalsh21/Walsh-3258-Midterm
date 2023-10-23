@@ -491,3 +491,168 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 529.799590 seconds.
+  path: Assets/Detector.asset
+  artifactKey: Guid(89ff3c8176411534093f88464325f451) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Detector.asset using Guid(89ff3c8176411534093f88464325f451) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7a41d225c3d7d31b9c8ebd17db942ed') in 0.987181 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/NPC.asset
+  artifactKey: Guid(01789435084fe1a4fb0c173ecb057ff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPC.asset using Guid(01789435084fe1a4fb0c173ecb057ff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a811cb80204d410fc1d0db03d2feca49') in 0.112772 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 875.368630 seconds.
+  path: Assets/PlayerCharacter.asset
+  artifactKey: Guid(6b296176ebe021842906b93267b86a6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerCharacter.asset using Guid(6b296176ebe021842906b93267b86a6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b72739723806a7b5ef46f5b86f4efed') in 0.289559 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 835.122300 seconds.
+  path: Assets/NPC.asset
+  artifactKey: Guid(01789435084fe1a4fb0c173ecb057ff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPC.asset using Guid(01789435084fe1a4fb0c173ecb057ff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1777af927d3c84fa176eb90b35bf3de') in 0.004507 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 232.979609 seconds.
+  path: Assets/BulletHolder.asset
+  artifactKey: Guid(f92041b6ec142bc46aae0707e29fe90b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BulletHolder.asset using Guid(f92041b6ec142bc46aae0707e29fe90b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6467cee028149e839e13591b2a9c505c') in 0.002463 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 616.535722 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a94106b745eec172bca918b6e1f61083') in 0.001053 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1878.259650 seconds.
+  path: Assets/Bullet.asset
+  artifactKey: Guid(e3dd2548d59113644a5bc04f47dac44c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bullet.asset using Guid(e3dd2548d59113644a5bc04f47dac44c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaf39350d7bc6c57fc67e27c563e7535') in 0.002578 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 488.168475 seconds.
+  path: Assets/BulletBox.asset
+  artifactKey: Guid(f8e759ef53dac0b4098ce258cbccf67d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BulletBox.asset using Guid(f8e759ef53dac0b4098ce258cbccf67d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c482e8938dd9c620cdedf265cf2aa7b') in 0.002693 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 293.840704 seconds.
+  path: Assets/Bullet.asset
+  artifactKey: Guid(e3dd2548d59113644a5bc04f47dac44c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bullet.asset using Guid(e3dd2548d59113644a5bc04f47dac44c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7beeb007b2c1de42faa8f65c83cc58b') in 0.003534 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.011435 seconds.
+  path: Assets/PlayerCharacter.asset
+  artifactKey: Guid(6b296176ebe021842906b93267b86a6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerCharacter.asset using Guid(6b296176ebe021842906b93267b86a6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1db86e440abe4615bfc18d6d22e3357e') in 0.033822 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/NPCRandom.asset
+  artifactKey: Guid(c912117208910db499ba60810f493e04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCRandom.asset using Guid(c912117208910db499ba60810f493e04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5f21d9616c3b24121a258c39ec846e3') in 0.149354 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 212.606485 seconds.
+  path: Assets/BulletBox.asset
+  artifactKey: Guid(f8e759ef53dac0b4098ce258cbccf67d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BulletBox.asset using Guid(f8e759ef53dac0b4098ce258cbccf67d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86ba5f058a07e72083ddf03c62d9718e') in 0.047804 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 34.469289 seconds.
+  path: Assets/Coins.asset
+  artifactKey: Guid(6eb0bfa4532ebf34a9aefbc8c8c50fba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Coins.asset using Guid(6eb0bfa4532ebf34a9aefbc8c8c50fba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c014c1b7374db596abe33141d7e789bc') in 0.002357 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 594.363065 seconds.
+  path: Assets/Score.asset
+  artifactKey: Guid(456a8322a04e6d74f9cdaf0cd8ada098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Score.asset using Guid(456a8322a04e6d74f9cdaf0cd8ada098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebcadb44512373e6d85ba5f89bc516ba') in 0.002770 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 95.033875 seconds.
+  path: Assets/BulletBox.asset
+  artifactKey: Guid(f8e759ef53dac0b4098ce258cbccf67d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BulletBox.asset using Guid(f8e759ef53dac0b4098ce258cbccf67d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e5a7581a8b37213e6aa024a48e84dbc') in 0.004823 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Score.asset
+  artifactKey: Guid(456a8322a04e6d74f9cdaf0cd8ada098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Score.asset using Guid(456a8322a04e6d74f9cdaf0cd8ada098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef67b708329c2053aa4f61465510e4fd') in 0.048579 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 377.011402 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1ab080ae3ebc79ed6d5226845293f9a') in 0.001306 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 133.537459 seconds.
+  path: Assets/Bullet.asset
+  artifactKey: Guid(e3dd2548d59113644a5bc04f47dac44c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bullet.asset using Guid(e3dd2548d59113644a5bc04f47dac44c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8029c99de7dd8f2e8cdb61293a619b7c') in 0.004064 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.012167 seconds.
+  path: Assets/PlayerCharacter.asset
+  artifactKey: Guid(6b296176ebe021842906b93267b86a6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerCharacter.asset using Guid(6b296176ebe021842906b93267b86a6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6c6d596d93d63ee402971052364ac3b') in 0.029223 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/BulletHolder.asset
+  artifactKey: Guid(f92041b6ec142bc46aae0707e29fe90b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BulletHolder.asset using Guid(f92041b6ec142bc46aae0707e29fe90b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7c7c7b0e7e7a00e0502ae0968212f42') in 0.008529 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
