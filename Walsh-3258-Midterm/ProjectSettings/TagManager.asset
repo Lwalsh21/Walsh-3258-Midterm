@@ -8,6 +8,8 @@ TagManager:
   - BulletHolder
   - BulletBox
   - Enemy
+  - Trigger
+  - Triggered
   layers:
   - Default
   - TransparentFX
