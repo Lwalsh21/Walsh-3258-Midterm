@@ -224,3 +224,64 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 12714.431656 seconds.
+  path: Assets/Preview_KenneyNL.png
+  artifactKey: Guid(e147ba95064e1ff4799a8adccf93f9a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Preview_KenneyNL.png using Guid(e147ba95064e1ff4799a8adccf93f9a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e702eb02f7e87fd1f0389b5d05c34745') in 0.227464 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 9.761523 seconds.
+  path: Assets/Models/advancedCharacterUV.tga
+  artifactKey: Guid(95ee26c1384ed07479600f3ddd48a6d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/advancedCharacterUV.tga using Guid(95ee26c1384ed07479600f3ddd48a6d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66ec9bf220748bf3c9cecfaa56c8433f') in 0.028479 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Models/basicCharacter.fbx
+  artifactKey: Guid(bdbafe0fb01eabd499098290d1fc3d5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/basicCharacter.fbx using Guid(bdbafe0fb01eabd499098290d1fc3d5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5daba6df65dfb99028b77071a8af1a89') in 0.244095 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 61
+========================================================================
+Received Import Request.
+  Time since last request: 51.689631 seconds.
+  path: Assets/Skins/Advanced/skin_man.png
+  artifactKey: Guid(907fab358970fce4db43e9f76b644397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Skins/Advanced/skin_man.png using Guid(907fab358970fce4db43e9f76b644397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b5c9d100cb83499bb443e8320bd4d34') in 0.033785 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000431 seconds.
+  path: Assets/Skins/Advanced/skin_orc.png
+  artifactKey: Guid(3e81e89fb0cc2a441bc677eab4cf9c74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Skins/Advanced/skin_orc.png using Guid(3e81e89fb0cc2a441bc677eab4cf9c74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a22d7884811ab3837e10090ccfe32e87') in 0.032572 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Skins/Advanced/skin_robot.png
+  artifactKey: Guid(b570091a0db3f3f4abb41f481c18b5d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Skins/Advanced/skin_robot.png using Guid(b570091a0db3f3f4abb41f481c18b5d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0501d3b36731e01fe2bc8f6c188e3000') in 0.036765 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Skins/Advanced/skin_manAlternative.png
+  artifactKey: Guid(b81b96630b6ec27419b4cb5394230516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Skins/Advanced/skin_manAlternative.png using Guid(b81b96630b6ec27419b4cb5394230516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39b9b48602e29b03e4b06bedc80f6020') in 0.029639 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
